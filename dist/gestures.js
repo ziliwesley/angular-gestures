@@ -36,6 +36,7 @@ var HGESTURES = {
     hmPinchIn: 'pinchin',
     hmPinchOut: 'pinchout',
     hmPress: 'press',
+    hmPressUp: 'pressup',
     hmRelease: 'release',
     hmRotate: 'rotate',
     hmSwipe: 'swipe',
